@@ -31,3 +31,22 @@
 # Debug files
 *.dSYM/
 *.su
+
+# CLion
+.idea/
+*.cbp
+
+# CMake
+cmake-build-debug/
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+# Project binary
+word_list
